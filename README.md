@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 * 💼 Software Engineer
-* 📫 How to reach me: [ngocvinh.nnv\@gmail.com](mailto:ngocvinh.nnv@gmail.com), [LinkedIn](https://www.linkedin.com/in/vinhnguyen261)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinhnguyen261)
 
 <!--
 * 🌱 I’m currently learning [Technologies, skills, or areas you're focusing on]
