@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-* 💼 Lead Software Engineer
+* 💼 Software Engineer
 * 📫 How to reach me: [ngocvinh.nnv\@gmail.com](mailto:ngocvinh.nnv@gmail.com), [LinkedIn](https://www.linkedin.com/in/vinhnguyen261)
 
 <!--
